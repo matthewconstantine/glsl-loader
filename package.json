@@ -1,0 +1,8 @@
+{
+  "name": "glsl-loader",
+  "version": "0.0.1",
+  "description": "Simplest possible GLSL webpack loader that supports hot swapping.",
+  "main": "index.js",
+  "author": "Matthew Constantine",
+  "license": "MIT"
+}
